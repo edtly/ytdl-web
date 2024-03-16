@@ -6,7 +6,7 @@ var __importDefault =
   };
 Object.defineProperty(exports, "__esModule", { value: true });
 var express_1 = __importDefault(require("express"));
-var default_1 = __importDefault(require("./routes/default"));
+var default_1 = __importDefault(require("./dist/routes/default"));
 var app = express_1.default();
 var port = parseInt(process.env.PORT) || 4131;
 app.set("views", "views");

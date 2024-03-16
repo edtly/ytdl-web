@@ -2,9 +2,9 @@
   "name": "web-youtube-downloader",
   "version": "2.0.0",
   "description": "Download YouTube videos from source",
-  "main": "dist/main.js",
+  "main": "main.js",
   "scripts": {
-    "start": "node dist/main.js",
+    "start": "main.js",
     "build": "tsc"
   },
   "repository": {
