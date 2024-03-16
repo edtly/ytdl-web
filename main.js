@@ -16,4 +16,3 @@ app.use(default_1.default);
 app.listen(port, function () {
   console.log("hello gilga, app work on port: " + port);
 });
-//# sourceMappingURL=main.js.map
