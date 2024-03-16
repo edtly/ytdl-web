@@ -1,5 +1,5 @@
 {
-  "name": "web-youtube-downloader",
+  "name": "ytdl-core",
   "version": "2.0.0",
   "description": "Download YouTube videos from source",
   "main": "main.js",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Feuerhamster/web-youtube-downloader.git"
+    "url": "git+https://github.com/edtly/ytdl-web.git"
   },
   "author": "Feuerhamster",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Feuerhamster/web-youtube-downloader/issues"
+    "url": "https://github.com/edtly/ytdl-web/issues"
   },
-  "homepage": "https://github.com/Feuerhamster/web-youtube-downloader#readme",
+  "homepage": "https://github.com/edtly/ytdl-web",
   "dependencies": {
     "express": "^4.17.1",
     "node-cache": "^5.1.2",
